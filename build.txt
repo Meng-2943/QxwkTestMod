@@ -1,0 +1,9 @@
+displayname = 终端传说
+version = 0.3.0
+author = 青翔未阔工作室
+homepage = https://ovywmw.aliwork.com/o/QXWK/Home
+
+hideCode = true
+hideResources = false
+includeSource = false
+includePDB = false
